@@ -1,0 +1,12 @@
+<!-- Lesson 2.1: String Input and Output in C++
+Concept Overview:
+In this lesson, we will delve into string input and output operations in C++. Understanding how to handle strings is crucial for many programming tasks, such as working with text-based data.
+Here are the key topics we'll cover:
+
+String Basics: Explore the fundamentals of strings in C++, including what strings are and how they differ from character arrays.
+String Input: Learn how to read strings from the standard input using cin.
+String Output: Discover how to display strings to the standard output using cout.
+
+
+Code Challenge:
+Write a C++ program that takes a user's name as input and prints a personalized greeting message. -->
